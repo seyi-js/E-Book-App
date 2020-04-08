@@ -1,11 +1,11 @@
-#E-Book Sale App
+# E-Book Sale App
 
 An application that lets users purchase books with stripe gate-way payment.
 
 
-Production Url => https://ebook-app925.herokuapp.com
+Production Url => (https://ebook-app925.herokuapp.com)
 
-#Installation
+## Installation
 
 
-npm install
+##### npm install
